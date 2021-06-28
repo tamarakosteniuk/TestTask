@@ -1,0 +1,20 @@
+SessionID;LoginTS;LogoutTS;UserName;DeviceName;DeviceType;Country
+1;08.01.2020 12:35:25;08.01.2020 16:25:12;Kathy Johnson;My Ipad;Tablet;Germany
+2;01.01.2021 17:35:44;01.01.2021 19:40:45;John Doe;John’s Laptop;Laptop;Namibia
+3;01.01.2021 17:44:28;01.01.2021 19:44:32;John Doe;John’s Mobile phone;Mobile phone;Namibia
+4;01.06.2021 15:38:02;01.06.2021 19:00:45;Diane Benshoof;My Do;Desktop;China
+5;01.06.2021 16:15:23;01.06.2021 20:17:41;Gigi Eminhizer;Gi’s Mobile phone;Mobile phone;Tanzania
+6;01.06.2021 16:55:15;01.06.2021 19:05:01;Betsy Berry;My De;Desktop;Italy
+7;01.06.2021 17:24:45;01.06.2021 21:22:16;Patrick Brown;PB IPhone;Mobile phone;France
+8;01.06.2021 17:35:12;01.06.2021 18:49:41;Kathy Johnson;My IPhone;Mobile phone;Germany
+9;01.06.2021 17:55:03;01.06.2021 18:50:55;Kathy Johnson;My IPad;Tablet;Germany
+10;01.06.2021 18:11:54;01.06.2021 21:01:01;John Doe;John’s Mobile phone;Mobile phone;Italy
+11;01.06.2021 18:13:12;01.06.2021 21:45:41;John Doe;John’s Laptop;Laptop;Italy
+12;24.06.2021 10:13:22;24.06.2021 10:47:42;Patrick Brown;PB Laptop;Laptop;China
+13;24.06.2021 11:03:02;24.06.2021 13:48:44;Patrick Brown;PB Iphone;Mobile phone;China
+14;24.06.2021 13:10:02;24.06.2021 15:40:01;Gigi Eminhizer;Gi’s Mobile phone;Mobile phone;Tanzania
+15;28.06.2021 10:45:22;28.06.2021 12:44:02;Betsy Berry;My De;Desktop; Andorra
+16;28.06.2021 11:05:24;28.06.2021 12:40:12;Betsy Berry;Mi IPhone;Mobile phone;Andorra
+17;28.06.2021 14:55:41;28.06.2021 15:01:23;John Doe;John’s Mobile phone;Mobile phone;France
+18;28.06.2021 15:05:12;28.06.2021 15:20:41;Kathy Johnson;My IPhone;Mobile phone;Germany
+19;28.06.2021 15:15:03;28.06.2021 15:25:55;Kathy Johnson;My IPad;Tablet;Germany
